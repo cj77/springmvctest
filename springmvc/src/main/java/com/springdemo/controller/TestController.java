@@ -5,7 +5,11 @@ import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 
 import com.springdemo.interceptor.LoginAnnon;
-
+/**
+ * test git
+ * @author CJ
+ *
+ */
 @Controller
 public class TestController {
 	private static final Logger log = Logger.getLogger(TestController.class.getName());
