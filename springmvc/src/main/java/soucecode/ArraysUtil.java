@@ -10,7 +10,7 @@ public class ArraysUtil {
 		int value[] = { 1, 3, 5, 2 };
 		int cvalue[] = Arrays.copyOf(value, value.length);
 		System.out.println(Arrays.toString(cvalue));
-
+		
 		int index = Arrays.binarySearch(cvalue, 5);
 		System.out.println(index);
 
