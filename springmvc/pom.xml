@@ -94,6 +94,11 @@
   		<artifactId>spring-context-support</artifactId>
   		<version>4.3.4.RELEASE</version>
   	</dependency>
+  	<dependency>
+  		<groupId>org.activiti</groupId>
+  		<artifactId>activiti-engine</artifactId>
+  		<version>5.22.0</version>
+  	</dependency>
   </dependencies>
   <build>
     <finalName>springmvc</finalName>
