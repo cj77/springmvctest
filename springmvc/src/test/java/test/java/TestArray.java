@@ -20,5 +20,7 @@ public class TestArray {
 		String svalue[]={"10b","101a","2c","z","m"};
 		Arrays.sort(svalue);
 		System.out.println(Arrays.toString(svalue));
+		
+		//test 1
 	}
 }
