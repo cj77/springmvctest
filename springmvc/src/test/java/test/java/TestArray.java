@@ -1,12 +1,6 @@
 package test.java;
-<<<<<<< HEAD
-
 //test15
-||||||| merged common ancestors
-//test13
-=======
-//test14
->>>>>>> 6ba803d5abe87727c6a1349565d1b4b37ccdbf5f
+
 import java.util.Arrays;
 
 import org.junit.Test;
